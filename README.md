@@ -43,16 +43,17 @@ Experiments demonstrated that this framework performs well (31/35) for cables of
 ### Experiments Videos (speed*3)
 
 #### Success grasping with linear objects of different rigidities and diameters 
-<img src="/gif/1.gif" width="500">
-<img src="/gif/2.gif" width="500">
-<img src="/gif/3.gif" width="500">
-<img src="/gif/4.gif" width="500">
-<img src="/gif/5.gif" width="500">
-<img src="/gif/6.gif" width="500">
-<img src="/gif/7.gif" width="500">
-<img src="/gif/8.gif" width="500">
-<img src="/gif/9.gif" width="500">
-
+<p align="center">
+<img src="/gif/1.gif" width="100">
+<img src="/gif/2.gif" width="100">
+<img src="/gif/3.gif" width="100">
+<img src="/gif/4.gif" width="100">
+<img src="/gif/5.gif" width="100">
+<img src="/gif/6.gif" width="100">
+<img src="/gif/7.gif" width="100">
+<img src="/gif/8.gif" width="100">
+<img src="/gif/9.gif" width="100">
+</p>
 
 #### Success Scenarios with cables of different initial states, rigidities and diameters 
 <img src="/gif/y-usb4.gif" width="500">
