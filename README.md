@@ -44,15 +44,15 @@ Experiments demonstrated that this framework performs well (31/35) for cables of
 
 #### Success grasping with linear objects of different rigidities and diameters 
 <p align="center">
-<img src="/gif/1.gif" width="100">
-<img src="/gif/2.gif" width="100">
-<img src="/gif/3.gif" width="100">
-<img src="/gif/4.gif" width="100">
-<img src="/gif/5.gif" width="100">
-<img src="/gif/6.gif" width="100">
-<img src="/gif/7.gif" width="100">
-<img src="/gif/8.gif" width="100">
-<img src="/gif/9.gif" width="100">
+<img src="/gif/1.gif" width="300">
+<img src="/gif/2.gif" width="300">
+<img src="/gif/3.gif" width="300">
+<img src="/gif/4.gif" width="300">
+<img src="/gif/5.gif" width="300">
+<img src="/gif/6.gif" width="300">
+<img src="/gif/7.gif" width="300">
+<img src="/gif/8.gif" width="300">
+<img src="/gif/9.gif" width="300">
 </p>
 
 #### Success Scenarios with cables of different initial states, rigidities and diameters 
