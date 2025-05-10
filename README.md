@@ -68,14 +68,16 @@ Experiments demonstrated that this framework performs well (31/35) for cables of
 #### Failure Cases
 
 Cable folding:
-
-<img src="/gif/n-rope8.gif" width="500">
-<img src="/gif/n-rope14.gif" width="500">
+<p align="center">
+<img src="/gif/n-rope8.gif" width="300">
+<img src="/gif/n-rope14.gif" width="300">
+</p>
    
 Cable misalignment:
-
-<img src="/gif/n-usb4.gif" width="500">
-<img src="/gif/n-rope24.gif" width="500">
+<p align="center">
+<img src="/gif/n-usb4.gif" width="300">
+<img src="/gif/n-rope24.gif" width="300">
+</p>
 
 The folding and misalignment problems stem from limitations of single-arm operation, which can be solved after applying dual arms.
 
