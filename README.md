@@ -16,14 +16,14 @@ The manipulation of deformable linear flexures has a wide range of applications 
 
 ### Proposed Framework
 <p align="center">
-  <img src="./images/pipeline.png" width="700">
+  <img src="./images/pipeline.png" width="1000">
 </p>
 
 We propose an single-grasp end-to-end framework for 3D cable routing. (a) Our perception model takes in one RGBD image of slots with initial cable to output the task configuration. We use depth filtering and Principle Component Analysis (PCA) to detect the position and orientation of the slots, and YOLOv8 to determine cable segmentation. (b) In planning model, a cable preprocessing step is designed to adjust the cable to a ideal state. With a multi-weight voting strategy, the optimal grasping node is determined. The task configuration (slot positions, orientations and cable nodes) is mapped to a trajectory with four motion primitives. Sequentially, the cable is manipulated with a sequence of parameterized motion primitives iteratively which only grasp once.
 
 ### Motion Primitives
 <p align="center">
-  <img src="/images/motion.png" width="700">
+  <img src="/images/motion.png" width="1000">
 </p>
 
 Parameterized motion primitives. (a) Grasp motion primitive. (b) Offset motion primitive. (c) Insert motion primitive.
@@ -44,25 +44,26 @@ Experiments demonstrated that this framework performs well (31/35) for cables of
 
 #### Success grasping with linear objects of different rigidities and diameters 
 <p align="center">
-<img src="/gif/1.gif" width="300">
-<img src="/gif/2.gif" width="300">
-<img src="/gif/3.gif" width="300">
-<img src="/gif/4.gif" width="300">
-<img src="/gif/5.gif" width="300">
-<img src="/gif/6.gif" width="300">
-<img src="/gif/7.gif" width="300">
-<img src="/gif/8.gif" width="300">
-<img src="/gif/9.gif" width="300">
+<img src="/gif/1.gif" width="250">
+<img src="/gif/2.gif" width="250">
+<img src="/gif/3.gif" width="250">
+<img src="/gif/4.gif" width="250">
+<img src="/gif/5.gif" width="250">
+<img src="/gif/6.gif" width="250">
+<img src="/gif/7.gif" width="250">
+<img src="/gif/8.gif" width="250">
+<img src="/gif/9.gif" width="250">
 </p>
 
 #### Success Scenarios with cables of different initial states, rigidities and diameters 
-<img src="/gif/y-usb4.gif" width="500">
-<img src="/gif/y-hose14.gif" width="500">
-<img src="/gif/y-hose20.gif" width="500">
-<img src="/gif/y-rope14.gif" width="500">
-<img src="/gif/y-rope20.gif" width="500">
-<img src="/gif/y-rope24.gif" width="500">
-
+<p align="center">
+<img src="/gif/y-usb4.gif" width="300">
+<img src="/gif/y-hose14.gif" width="300">
+<img src="/gif/y-hose20.gif" width="300">
+<img src="/gif/y-rope14.gif" width="300">
+<img src="/gif/y-rope20.gif" width="300">
+<img src="/gif/y-rope24.gif" width="300">
+</p>
 
 #### Failure Cases
 
