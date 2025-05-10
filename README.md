@@ -1,4 +1,4 @@
-# CaRoBio-3D-Cable-Routing-with-a-Bio-inspired-Gripper-Fingernail ([project] (https://github.com/Jo-eyZUO/CaRoBio-CACRE))
+# CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail 
 Jiahui Zuo, Boyang Zhang, Fumin Zhang
 
 FARL Lab, HKUST
